@@ -12,6 +12,7 @@ cred = credentials.Certificate('Place the path to your private key')
 initialize_app(cred)
 db = firestore.client()
 
+#Place the link to your firebase dataset
 firebase_url = 'https://vision-vanguards-trial-default-rtdb.firebaseio.com'
 
 pygame.mixer.init()
