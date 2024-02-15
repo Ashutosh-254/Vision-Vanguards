@@ -1,3 +1,4 @@
+#Final Code for Barcode Scanner and Bluetooth Airbuds
 import cv2
 from pyzbar.pyzbar import decode
 import requests
