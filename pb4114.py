@@ -1,3 +1,4 @@
+#Camera GUI Window Enabled in combination with Push Button Logic
 import cv2
 from pyzbar.pyzbar import decode
 import requests
